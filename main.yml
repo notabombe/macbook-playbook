@@ -691,6 +691,11 @@
     - role: terminal-notifier
       tags: [command-line-tools, brew-pkg, terminal-notifier]
 
+
+    #############################################################################
+    # Another command line tools ################################################
+    #############################################################################
+    
     - role: warp
       tags: [command-line-tools, brew-cask-pkg, warp]
 
